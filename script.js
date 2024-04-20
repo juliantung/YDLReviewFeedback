@@ -10,7 +10,7 @@ function rate(stars) {
         document.getElementById('feedback').style.display = 'block';
     } else {
         
-        window.location.href = 'https://www.google.com/search?q=Yew+digital+lock+&sca_esv=bb7869262e6227ae&sca_upv=1&sxsrf=ACQVn09At5M4LFi8vgb3ER4UFtUvw4JPbA%3A1713634739871&ei=s_0jZqXnNPWr4-EPwL6qoAM&ved=0ahUKEwjljMfvqtGFAxX11TgGHUCfCjQQ4dUDCBA&uact=5&oq=Yew+digital+lock+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEVlldyBkaWdpdGFsIGxvY2sgMgQQIxgnMgQQIxgnMgQQIxgnMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgsQABiABBiGAxiKBUi_CFB5WOMEcAF4AJABAJgBWKABngKqAQE0uAEDyAEA-AEBmAIFoAKzAsICDhAAGIAEGLADGIYDGIoFwgIGEAAYFhgemAMAiAYBkAYBkgcBNaAH9RY&sclient=gws-wiz-serp#lrd=0x674a12c053bf99df:0xd8e1da69a8a10a1e,3,5';
+        window.location.href = 'https://g.page/r/CR4Koahp2uHYEBM/review';
     }
 }
 
