@@ -25,12 +25,14 @@ document.getElementById('feedbackText').addEventListener('keypress', function (e
 function submitFeedback() {
     var feedback = document.getElementById('feedbackText').value;
     
+    if (feedback.length < 25) {
+        alert("Please provide feedback of at least 25 characters.");
+        return; 
+    }
     console.log('Feedback submitted:', feedback);
     document.getElementById('feedback').style.display = 'none'; 
     document.getElementById('feedbackConfirmation').style.display = 'block'; 
-
-    
-    document.getElementById('pageTitle').textContent = "Thank you";
+    document.getElementById('pageTitle').textContent = "We have received your feedback.";
 }
 
 
