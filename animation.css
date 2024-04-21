@@ -1,7 +1,7 @@
 
 
 body {
-    background: #000;
+    background: #114431;
 }
 
 .container {
@@ -24,7 +24,7 @@ body {
     font-weight: 700;
     letter-spacing: 8px;
     margin-bottom: 20px;
-    background: black;
+    background: #114431;
     position: relative;
     animation: text 4s 1;
 }
